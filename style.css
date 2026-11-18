@@ -1,0 +1,31 @@
+/* Adds borders and spacing to all 3 classes and 1 header */
+#header, .stage {
+  border: 2px solid steelblue;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+/* Box 3 (2026) indented by 40px */
+#present {
+  margin-left: 40px;
+}
+
+/* Box 4 (2027) indented 80px */
+#future {
+  margin-left: 80px;
+	border: 2px dotted steelblue
+}
+body
+{
+background-color: aliceblue
+}
+h1
+{
+color: navy
+}
+#me
+{
+  border-radius: 50%;
+object-fit: cover;
+border: 2px solid steelblue
+}
